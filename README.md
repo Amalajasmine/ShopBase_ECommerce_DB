@@ -36,3 +36,35 @@ The database includes the following tables:
    ```bash
    git clone https://github.com/Amalajasmine/ShopBase_ECommerce_Database.git
    cd ShopBase_ECommerce_Database
+
+**2.Import the SQL Scripts into MySQL:
+**
+Open MySQL Workbench or your preferred SQL tool.
+
+Run create_tables.sql to create the schema.
+
+Run insert_data.sql to populate tables with sample data.
+
+**3.Run Sample Queries:
+**
+Open sample_queries.sql to test and explore the database.
+**🛠️ Use Cases
+**
+
+Build a backend for an e-commerce app.
+
+Use as a foundation for analytics or reporting projects.
+
+**📄 License
+**
+
+This project is open-source and available under the MIT License.
+
+
+**🙌 Acknowledgments
+**
+
+Created as part of a backend learning project to simulate a realistic e-commerce environment.
+
+
+
