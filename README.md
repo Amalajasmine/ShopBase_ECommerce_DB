@@ -6,7 +6,7 @@ This repository contains the complete MySQL backend for an e-commerce applicatio
 
 - `create_tables.sql` – SQL script to create all tables and define relationships.
 - `insert_data.sql` – Sample data insert statements to populate the database.
-- `sample_queries.sql` – Example queries for testing and reporting.
+- `sample__test_queries.sql` – Example queries for testing and reporting.
 - `ER_diagram.png` – Entity Relationship Diagram of the database.
 - `README.md` – Documentation and project overview.
 
